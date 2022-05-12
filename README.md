@@ -1,4 +1,4 @@
-# Jovo V4 - How to add "spintax" functionality as a hook
+# Jovo V4 - How to add "Spintax" functionality as a hook
 
 ## What is Spintax?
 
@@ -63,4 +63,4 @@ Definitely! Using spintax in your project can help you to save time and make mai
 
 To show what is possible I also wrote an [online spintax tool](https://spintax.applicate.de) which you can use for whatever you may find useful. 
 
-Going one step further there is also a tool to [describe and maintain complete Alexa voice models using spintax](https://voicemodel.applicate.de/). Read [my LinkedIn article about Spintax](https://www.linkedin.com/pulse/adding-expression-language-alexa-voice-models-frank-b%C3%B6rncke/) to find out more. 
+Going one step further there is also a tool to [describe and maintain complete Alexa voice models using spintax](https://voicemodel.applicate.de/). Furthermore you may want to read [my LinkedIn article about Spintax](https://www.linkedin.com/pulse/adding-expression-language-alexa-voice-models-frank-b%C3%B6rncke/) to find out more. 
