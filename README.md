@@ -59,7 +59,7 @@ Spintax can help you to bring variety into your utterances.
 
 ## Is this the only way I can add this functionality to Jovo?
 
-No. You could also have a look at the Jovo **plugin** concept. [You can find an example implementation for Spintax using the plugin approach here](https://github.com/fboerncke/jovo-v4-how-to-plugin-spintax-example/edit/main/README.md).
+No. You could also have a look at the Jovo **plugin** concept. [You can find an example implementation for Spintax using the plugin approach here](https://github.com/fboerncke/jovo-v4-how-to-plugin-spintax-example).
 
 ## Is there anything more I can do with this spintax concept?
 
